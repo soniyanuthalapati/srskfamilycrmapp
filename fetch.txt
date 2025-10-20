@@ -1,2 +1,3 @@
 fetch data added to my main branch
 added newline to my fetch text file
+added second line in fetch text file
