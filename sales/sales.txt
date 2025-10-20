@@ -1,1 +1,2 @@
 sales text
+added newline in sales data
