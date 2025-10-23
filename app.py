@@ -6,7 +6,12 @@ S3 bucket listing globally
 
 S3 deletion by exact filename, wildcard/pattern, or object tag #>
 
+<<<<<<< HEAD
 
+=======
+<# add login page UI
+fix login validation bug #>
+>>>>>>> 98922b4 (fix login validation bug)
 
 
 
