@@ -1,0 +1,2 @@
+this is sales data.
+we have to stage it.
