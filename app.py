@@ -6,7 +6,8 @@ S3 bucket listing globally
 
 S3 deletion by exact filename, wildcard/pattern, or object tag 
 this is the new line added
-this is newly added for git cherrypick #>
+this is newly added for git cherrypick
+fix login validation bug #>
 
 
 
