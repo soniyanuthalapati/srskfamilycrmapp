@@ -4,15 +4,7 @@ EC2 management across all regions with optional tag filtering
 
 S3 bucket listing globally
 
-S3 deletion by exact filename, wildcard/pattern, or object tag 
-this is the new line added
-this is newly added for git cherrypick
-<<<<<<< HEAD
-fix login validation bug 
-add debug prints #>
-=======
-fix login validation bug #>
->>>>>>> f2d1b48 (added fix validation bug)
+S3 deletion by exact filename, wildcard/pattern, or object tag #>
 
 
 
